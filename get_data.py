@@ -10,6 +10,7 @@ import os
 load_dotenv()
 
 
+
 KIWI_API_KEY = os.environ.get('KIWI_TOKEN')
 START_LOCATION_ID = "BUD"
 MAX_PLAN_FORWARD_DAYS = 180
