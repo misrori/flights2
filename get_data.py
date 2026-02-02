@@ -144,6 +144,29 @@ locations_bali = pd.DataFrame(list(map(lambda x:{
 
 locations = pd.concat([locations, locations_bali], ignore_index=True).reset_index(drop=True)
 
+# --- MANUAL JFK ENTRY ---
+jfk_manual = pd.DataFrame([{
+    'id': 'JFK',
+    'name': 'John F. Kennedy International Airport',
+    'city': 'New York',
+    'country': 'United States',
+    'continent': 'North America',
+    'region': 'NY',
+    'lon': -73.7781,
+    'lat': 40.6413,
+    'rank': 1
+}])
+
+# concat europe + manual JFK
+locations = pd.concat(
+    [locations, jfk_manual],
+    ignore_index=True
+)
+
+
+
+
+
 locations.to_csv(f'{CSV_DATA}/airportrs.csv', index=False)
 
 airport_ids = list(locations[locations['continent']== 'Europe']['id'])
@@ -155,6 +178,30 @@ airport_ids.extend(locations_bali['id'])
 current_date_string = datetime.now().strftime("%d/%m/%Y")
 future_date = datetime.now() + timedelta(days = MAX_PLAN_FORWARD_DAYS)
 future_date_string = future_date.strftime("%d/%m/%Y")
+
+
+ny_flights = []
+NEW_YORK_IDS = ["JFK"]
+
+for ny in NEW_YORK_IDS:
+    try:
+        df_ny = get_one_dest(ny)
+        ny_flights.append(df_ny)
+    except Exception as e:
+        print(f"NY error ({ny}):", e)
+
+df_ny = pd.concat(ny_flights, ignore_index=True)
+df_ny.to_csv(f"csv_data/NYC.csv", index=False)
+
+
+
+
+
+
+
+
+
+
 
 
 data_frames = []
@@ -234,3 +281,8 @@ flights.to_csv(NEW_FILE, index=False)
 # processed data
 top3_flights = flights.groupby('varos').head(3)
 top3_flights.to_csv(TOP3_FLIGHTS, index=False)
+
+
+
+
+
