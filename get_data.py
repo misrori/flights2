@@ -117,7 +117,7 @@ locations = pd.DataFrame(list(map(lambda x:{
 params_bali = {
     'lat': '-8.3',
     'lon': '115',
-    'radius': 800,
+    'radius': 1000,
     'locale': 'en-US',
     'location_types': 'airport',
     'limit': '500',
