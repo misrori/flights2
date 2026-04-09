@@ -499,35 +499,34 @@ KVA,Kavala International,Kavala,Greece,Europe,Southern Europe,24.619167,40.91333
 BZG,Bydgoszcz Ignacy Jan Paderewski,Bydgoszcz,Poland,Europe,Central Europe,17.977778,53.096667,1384
 GOH,Nuuk,Nuuk,Greenland,North America,Northern America,-51.678056,64.190833,1385
 IGD,Iğdır,Iğdır,Turkey,Asia,Western Asia,43.884444,39.972778,1386
-DPS,Ngurah Rai International,Denpasar,Indonesia,Asia,South-Eastern Asia,115.167222,-8.748056,32
-CGK,Soekarno–Hatta International,Jakarta,Indonesia,Asia,South-Eastern Asia,106.655833,-6.125556,93
-LOP,Lombok International,"Praya, Lombok",Indonesia,Asia,South-Eastern Asia,116.276667,-8.757222,378
-SUB,Juanda International,Surabaya,Indonesia,Asia,South-Eastern Asia,112.786944,-7.379722,422
-LBJ,Komodo,Labuan Bajo,Indonesia,Asia,South-Eastern Asia,119.889167,-8.486667,430
-YIA,Yogyakarta International Airport,Yogyakarta,Indonesia,Asia,South-Eastern Asia,110.05448,-7.907459,527
-UPG,Sultan Hasanuddin International,Makassar,Indonesia,Asia,South-Eastern Asia,119.554167,-5.061667,713
-BPN,Sultan Aji Muhammad Sulaiman,Balikpapan,Indonesia,Asia,South-Eastern Asia,116.894444,-1.268333,868
-SRG,Ahmad Yani International,Semarang,Indonesia,Asia,South-Eastern Asia,110.374167,-6.971389,887
-HLP,Halim Perdanakusuma International,Jakarta,Indonesia,Asia,South-Eastern Asia,106.891111,-6.266667,901
-PKN,Iskandar,Pangkalan Bun,Indonesia,Asia,South-Eastern Asia,111.673333,-2.705278,979
-PKY,Tjilik Riwut,Palangka Raya,Indonesia,Asia,South-Eastern Asia,113.942778,-2.225,1011
-KOE,El Tari International,Kupang,Indonesia,Asia,South-Eastern Asia,123.671111,-10.171667,1054
-BDJ,Syamsudin Noor International,Banjarmasin,Indonesia,Asia,South-Eastern Asia,114.7625,-3.442222,1069
-SOC,Adisumarmo International,Surakarta,Indonesia,Asia,South-Eastern Asia,110.756944,-7.516111,1147
-TMC,Tambolaka,Tambolaka,Indonesia,Asia,South-Eastern Asia,119.244444,-9.409722,1149
-MLG,Abdul Rachman Saleh,Malang,Indonesia,Asia,South-Eastern Asia,112.714444,-7.926667,1408
-ENE,H. Hasan Aroeboesman,Ende,Indonesia,Asia,South-Eastern Asia,121.660556,-8.849167,1468
-SWQ,Sultan Muhammad Kaharuddin III,Sumbawa Besar,Indonesia,Asia,South-Eastern Asia,117.411389,-8.488056,1478
-BMU,Sultan Muhammad Salahudin,Bima,Indonesia,Asia,South-Eastern Asia,118.687222,-8.539722,1505
-AAP,APT Pranoto Airport,Samarinda,Indonesia,Asia,South-Eastern Asia,117.255556,-0.373611,1571
-KDI,Haluoleo,Kendari,Indonesia,Asia,South-Eastern Asia,122.418333,-4.081667,1623
-PLW,Mutiara SIS Al-Jufrie,Palu,Indonesia,Asia,South-Eastern Asia,119.909722,-0.918611,1647
-BDO,Husein Sastranegara International,Bandung,Indonesia,Asia,South-Eastern Asia,107.576389,-6.900556,1671
-BWX,Blimbingsari,Banyuwangi,Indonesia,Asia,South-Eastern Asia,114.34,-8.310278,1679
-MOF,Frans Xavier Seda,Maumere,Indonesia,Asia,South-Eastern Asia,122.236944,-8.640556,1689
-JOG,Adisutjipto International,Yogyakarta,Indonesia,Asia,South-Eastern Asia,110.431667,-7.788056,1758
-SMQ,H. Asan,Sampit,Indonesia,Asia,South-Eastern Asia,112.975,-2.499167,1956
-RTI,Roti David C. Saudale,Rote Island,Indonesia,Asia,South-Eastern Asia,123.075278,-10.766944,2031
+DPS,Ngurah Rai International,Denpasar,Indonesia,Asia,South-Eastern Asia,115.167222,-8.748056,37
+CGK,Soekarno–Hatta International,Jakarta,Indonesia,Asia,South-Eastern Asia,106.655833,-6.125556,96
+LOP,Lombok International,"Praya, Lombok",Indonesia,Asia,South-Eastern Asia,116.276667,-8.757222,399
+SUB,Juanda International,Surabaya,Indonesia,Asia,South-Eastern Asia,112.786944,-7.379722,448
+LBJ,Komodo,Labuan Bajo,Indonesia,Asia,South-Eastern Asia,119.889167,-8.486667,451
+YIA,Yogyakarta International Airport,Yogyakarta,Indonesia,Asia,South-Eastern Asia,110.05448,-7.907459,555
+UPG,Sultan Hasanuddin International,Makassar,Indonesia,Asia,South-Eastern Asia,119.554167,-5.061667,721
+BPN,Sultan Aji Muhammad Sulaiman,Balikpapan,Indonesia,Asia,South-Eastern Asia,116.894444,-1.268333,825
+HLP,Halim Perdanakusuma International,Jakarta,Indonesia,Asia,South-Eastern Asia,106.891111,-6.266667,900
+SRG,Ahmad Yani International,Semarang,Indonesia,Asia,South-Eastern Asia,110.374167,-6.971389,922
+PKN,Iskandar,Pangkalan Bun,Indonesia,Asia,South-Eastern Asia,111.673333,-2.705278,992
+PKY,Tjilik Riwut,Palangka Raya,Indonesia,Asia,South-Eastern Asia,113.942778,-2.225,1031
+BDJ,Syamsudin Noor International,Banjarmasin,Indonesia,Asia,South-Eastern Asia,114.7625,-3.442222,1086
+KOE,El Tari International,Kupang,Indonesia,Asia,South-Eastern Asia,123.671111,-10.171667,1095
+SOC,Adisumarmo International,Surakarta,Indonesia,Asia,South-Eastern Asia,110.756944,-7.516111,1157
+TMC,Tambolaka,Tambolaka,Indonesia,Asia,South-Eastern Asia,119.244444,-9.409722,1215
+SWQ,Sultan Muhammad Kaharuddin III,Sumbawa Besar,Indonesia,Asia,South-Eastern Asia,117.411389,-8.488056,1457
+BMU,Sultan Muhammad Salahudin,Bima,Indonesia,Asia,South-Eastern Asia,118.687222,-8.539722,1465
+MLG,Abdul Rachman Saleh,Malang,Indonesia,Asia,South-Eastern Asia,112.714444,-7.926667,1473
+ENE,H. Hasan Aroeboesman,Ende,Indonesia,Asia,South-Eastern Asia,121.660556,-8.849167,1574
+BWX,Blimbingsari,Banyuwangi,Indonesia,Asia,South-Eastern Asia,114.34,-8.310278,1596
+AAP,APT Pranoto Airport,Samarinda,Indonesia,Asia,South-Eastern Asia,117.255556,-0.373611,1680
+PLW,Mutiara SIS Al-Jufrie,Palu,Indonesia,Asia,South-Eastern Asia,119.909722,-0.918611,1686
+KDI,Haluoleo,Kendari,Indonesia,Asia,South-Eastern Asia,122.418333,-4.081667,1688
+MOF,Frans Xavier Seda,Maumere,Indonesia,Asia,South-Eastern Asia,122.236944,-8.640556,1704
+JOG,Adisutjipto International,Yogyakarta,Indonesia,Asia,South-Eastern Asia,110.431667,-7.788056,1820
+SMQ,H. Asan,Sampit,Indonesia,Asia,South-Eastern Asia,112.975,-2.499167,1869
+RTI,Roti David C. Saudale,Rote Island,Indonesia,Asia,South-Eastern Asia,123.075278,-10.766944,2046
 BTW,Batu Licin,Batulicin,Indonesia,Asia,South-Eastern Asia,116.0,-3.45,2048
 KWB,Dewadaru Airport,Karimunjawa,Indonesia,Asia,South-Eastern Asia,110.478611,-5.801111,2048
 KBU,Gusti Syamsir Alam,Kotabaru Regency,Indonesia,Asia,South-Eastern Asia,116.164722,-3.296111,2048
@@ -538,6 +537,7 @@ KJT,Kertajati International,Kertajati,Indonesia,Asia,South-Eastern Asia,108.1911
 MJU,Tampa Padang,Mamuju Regency,Indonesia,Asia,South-Eastern Asia,119.027778,-2.588333,2048
 SAU,Sawu Airport,Sawu-Sawu Island,Indonesia,Asia,South-Eastern Asia,121.900002,-10.4833,2048
 LLO,Palopo Lagaligo,Palopo,Indonesia,Asia,South-Eastern Asia,120.245,-3.0825,2048
+BDO,Husein Sastranegara International,Bandung,Indonesia,Asia,South-Eastern Asia,107.576389,-6.900556,2048
 LKA,Gewayantana,Larantuka,Indonesia,Asia,South-Eastern Asia,123.000556,-8.274167,2048
 BUW,Baubau,Bau-Bau,Indonesia,Asia,South-Eastern Asia,122.568889,-5.4875,2048
 KTG,Ketapang Rahadi Osman,Ketapang,Indonesia,Asia,South-Eastern Asia,109.963611,-1.816667,2048
